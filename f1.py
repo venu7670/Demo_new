@@ -1,2 +1,2 @@
-print("venu gopal ")
+print("venu")
 print("gani")
